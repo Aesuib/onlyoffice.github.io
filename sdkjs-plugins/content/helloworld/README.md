@@ -10,5 +10,4 @@ It is without interface plugin and isn't installed by default in cloud, [self-ho
 
 If you need more information about how to use or write your own plugin, please see this https://api.onlyoffice.com/plugin/basic
 
-
 # Vincent Modified this page already
